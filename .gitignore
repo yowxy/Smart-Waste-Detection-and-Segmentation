@@ -1,0 +1,6 @@
+# .gitignore
+*.tmp
+~$*
+*.docx
+.env/
+__pycache__/
